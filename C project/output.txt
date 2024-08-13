@@ -1,0 +1,3 @@
+Bus Number      Route           Fare            Seats Available
+--------------------------------------------------------------
+30              Ambala-Chandigarh 150             100            
